@@ -1,4 +1,3 @@
-//Stack
 #include "stdafx.h" // include-файл
 #include <stdlib.h> //подключение стандартной библиотеки
 #include <stdio.h> //  для ввода-вывода
